@@ -1,0 +1,33 @@
+body {
+    background: #202426;
+}
+
+div {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    margin: 10px 0;
+}
+
+.a {
+    color: #ff8c00;
+    border: 5px solid #ff8c00;
+}
+
+.b {
+    color: #2974f1;
+    border: 5px solid #2974f1;
+}
+
+.c {
+    color: #f53b93;
+    border: 5px solid #f53b93;
+}
+
+.d {
+    color: #ee0808;
+    border: 5px solid #ee0808;
+}
