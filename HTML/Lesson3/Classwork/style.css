@@ -1,0 +1,106 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container, .target {
+    width: 440px;
+    height: 330px;
+    background: white;
+    border: 3px solid silver;
+    border-radius: 10px;
+}
+
+.a, .b, .c, .d, .e, .f {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #7e7e7e;
+    background: silver;
+    margin: 5px;
+}
+
+.wrap, .wrap2 {
+    display: flex;
+}
+
+.a {
+    width: 430px;
+    height: 100px;
+}
+
+.b {
+    width: 320px;
+    height: 100px;
+}
+
+.c, .d, .e {
+    width: 100px;
+    height: 100px;
+}
+
+.f {
+    width: 100px;
+    height: 210px;
+}
+
+.A, .B, .C, .D, .E, .F, .G, .H {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #7e7e7e;
+    background: silver;
+    margin: 5px;
+}
+
+.wrap5, .wrap6, .wrap3 {
+    display: flex;
+}
+
+.A {
+    width: 430px;
+    height: 100px;
+}
+
+.B, .C, .D, .E, .F, .G {
+    width: 100px;
+    height: 100px;
+}
+
+.H {
+    width: 100px;
+    height: 210px;
+}
+
+.target1, .target2, .target3, .target4, .target5, .target6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background: cornflowerblue;
+    margin: 10px;
+}
+
+.wrap7 {
+    display: flex;
+}
+
+.wrap8 {
+    display: flex;
+}
+
+.target1, .target2 {
+    width: 200px;
+    height: 400px;
+}
+
+.target3 {
+    width: 420px;
+    height: 200px;
+}
+
+.target4, .target5, .target6 {
+    width: 127px;
+    height: 200px;
+}
