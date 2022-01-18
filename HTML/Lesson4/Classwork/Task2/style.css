@@ -1,0 +1,43 @@
+.flex {
+    display: flex;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    color: #696767;
+}
+
+.bg-silver {
+    background: silver;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w70 {
+    width: 70%;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h460 {
+    height: 460px;
+}
+
+.mrg-r {
+    margin-right: 60px;
+}
+
+.mrg-b {
+    margin-bottom: 60px;
+}

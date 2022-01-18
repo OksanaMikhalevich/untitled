@@ -1,0 +1,55 @@
+.wrap {
+    display: flex;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    color: white;
+}
+
+.bg-blue {
+    background: blue;
+}
+
+.bg-darkblue {
+    background: darkblue;
+}
+
+.bg-darkturquoise {
+    background: darkturquoise;
+}
+
+.bg-blueviolet {
+    background: blueviolet;
+}
+
+.bg-darkcyan {
+    background: darkcyan;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w70 {
+    width: 70%;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.h150 {
+    height: 150px;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h500 {
+    height: 500px;
+}

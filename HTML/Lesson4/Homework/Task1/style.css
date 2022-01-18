@@ -1,0 +1,51 @@
+.flex {
+    display: flex;
+}
+
+.text {
+    color: #414040;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-silver-cl {
+    background: silver;
+}
+
+.w92 {
+    width: 92%;
+}
+
+.w60 {
+    width: 60%;
+}
+
+.w32 {
+    width: 32%;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.mrg-b {
+    margin-bottom: 60px;
+}
+
+.mrg-l {
+    margin-left: 60px;
+}
+
+.mrg-t {
+    margin-top: 60px;
+}
+
+.br-radius {
+    border: 2px solid rgb(94, 92, 92);
+    border-radius: 10px;
+}

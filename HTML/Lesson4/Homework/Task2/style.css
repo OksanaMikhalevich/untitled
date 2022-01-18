@@ -1,0 +1,55 @@
+.wrap {
+    display: flex;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: x-large;
+}
+
+.bg-yellowgreen {
+    background: yellowgreen;
+}
+
+.bg-pink {
+    background: pink;
+}
+
+.bg-cornflowerblue {
+    background: cornflowerblue;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w70 {
+    width: 70%;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.h150 {
+    height: 150px;
+}
+
+.h220 {
+    height: 220px;
+}
+
+.h500 {
+    height: 500px;
+}
+
+.mrg-b {
+    margin-bottom: 60px;
+}
+
+.mrg-r {
+    margin-right: 60px;
+}

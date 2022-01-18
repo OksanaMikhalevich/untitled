@@ -1,0 +1,47 @@
+.wrap {
+    display: flex;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    color: white;
+}
+
+.bg-cornflowerblue {
+    background: cornflowerblue;
+}
+
+.bg-blue {
+    background: blue;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w33 {
+    width: 33%;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h250 {
+    height: 250px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.mrg-b {
+    margin-bottom: 30px
+}
+
+.mrg-r {
+    margin-right: 30px;
+}

@@ -1,0 +1,47 @@
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    color: #696767;
+}
+
+.wrap {
+    display: flex;
+}
+
+.flex {
+    display: flex;
+}
+
+.bg-silver {
+    background: silver;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w70 {
+    width: 70%;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h460 {
+    height: 460px;
+}
+
+.mrg-b {
+    margin-bottom: 60px;
+}
+
+.mrg-r {
+    margin-right: 60px;
+}
