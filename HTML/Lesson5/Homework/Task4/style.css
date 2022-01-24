@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+}
+
+.column {
+    display: block;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-direction {
+    flex-direction: column;
+}
+
+.txt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    color: white;
+}
+
+.bg-3f3e3e {
+    background: #3f3e3e;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w80 {
+    width: 80%;
+}
+
+.w70 {
+    width: 70%;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.w19 {
+    width: 19%;
+}
+
+.h315 {
+    height: 315px;
+}
+
+.h300 {
+    height: 300px;
+}
+
+.h215 {
+    height: 215px;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.mrg-r {
+    margin-right: 30px;
+}
+
+.mrg-b {
+    margin-bottom: 30px;
+}
+
+.mrg-t {
+    margin-top: -260px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 992px) {
+    .column {
+        display: block;
+    }
+
+    .flex-row {
+        flex-direction: row;
+    }
+
+    .w100 {
+        min-width: 100%;
+        position: relative;
+    }
+
+    .w48 {
+        min-width: 48%;
+        position: relative;
+    }
+
+    .h220 {
+        height: 220px;
+    }
+
+    .h105 {
+        height: 105px;
+    }
+
+    .mrg-b {
+        margin-bottom: 30px;
+    }
+
+    .mrg-r {
+        margin-right: 30px;
+    }
+
+    .mrg-t {
+        margin-top: 30px;
+    }
+
+}

@@ -1,0 +1,100 @@
+
+.flex{
+    display: flex;
+}
+.f-direction{
+    flex-direction: column;
+}
+.align-c{
+    align-items: center;
+}
+.justify-end{
+    justify-content: flex-end;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-space{
+    justify-content: space-evenly;
+}
+.txt-agn{
+    text-align: center;
+}
+.bg-darkturquoise{
+    background: darkturquoise;
+}
+.bg-darkblue{
+    background: darkblue;
+}
+.bg-silver{
+    background: silver;
+}
+.w50{
+    width: 50px;
+}
+.w100{
+    width: 100px;
+}
+.w90p{
+    width: 90%;
+}
+.w100p{
+    width: 100%;
+}
+.w200{
+    width: 200px;
+}
+.w500{
+    width: 500px;
+}
+.w1505{
+    width: 1505px;
+}
+.h10{
+    height: 10px;
+}
+.h50{
+    height: 50px;
+}
+.h100{
+    height: 100px;
+}
+.h200{
+    height: 200px;
+}
+.h500{
+    height: 500px;
+}
+.h600{
+    height: 600px;
+}
+.br-radius{
+    border-radius: 20px;
+}
+.mrg{
+    margin: 60px;
+}
+.mrg-r{
+    margin-right: 50px;
+}
+.mrg-l{
+    margin-left: 300px;
+}
+.mrg-t{
+    margin-top: 100px;
+}
+h1{
+    margin: 0;
+}
+.pdd{
+    box-sizing: border-box;
+    padding: 110px 0;
+}
+.pdd-r{
+    padding-right: 200px;
+}
+.border{
+    border: 3px solid darkturquoise;
+ margin-left: 70px;
+
+}
